@@ -50,4 +50,4 @@ categories:
     4. 口径场辐射
   
 
-$$dV=dx \cdot dy \timesdz$$
+$$dV=dx \cdot dy \times dz$$
