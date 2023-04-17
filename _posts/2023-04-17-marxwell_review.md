@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁场与电磁波"
+title: "电磁场与电磁波-矢量分析"
 date: 2023-04-17
 description: ''
 tags:
@@ -8,8 +8,7 @@ tags:
 categories:
 - 电磁场与电磁波
 --- 
-<script type="text/javascript" async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+
 
 # 电磁场与电磁波
 *********
@@ -19,6 +18,12 @@ categories:
     2. 坐标系
     3. 梯度,散度与旋度
   * 电磁场基本规律
+    1. 电流守恒
+    2. 静电场和静磁场
+    3. 媒介电磁属性
+    4. 电磁感应和位移电流
+    5. 麦克斯韦方程组
+    6. 边界条件
   * 静态电磁场和边值问题
   * 时变电磁场
   * 均匀平面波
@@ -26,4 +31,4 @@ categories:
   * 电磁辐射
   
 
-dV=dx*dy*dz
+$$dV=dx*dy*dz$$
