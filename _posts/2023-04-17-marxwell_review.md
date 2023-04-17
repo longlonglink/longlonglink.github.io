@@ -7,10 +7,8 @@ tags:
 - 教材总结
 categories:
 - 电磁场与电磁波
---- 
+---
 
-
-# 电磁场与电磁波-目录
 *********
 * ## 目  录 
   * 矢量分析
@@ -52,4 +50,4 @@ categories:
     4. 口径场辐射
   
 
-$$dV=dx\timesdy\timesdz$$
+$$dV=dx \cdot dy \timesdz$$
