@@ -1,4 +1,4 @@
-![](https://github.com/longlonglink/longlonglink.github.io/assets/img/sharding-gerenciamento-usuarios/sleep.jpg)
+![头像](https://github.com/longlonglink/longlonglink.github.io/blob/main/assets/img/sharding-gerenciamento-usuarios/sleep.jpg)
 
 # Site/User Settings
 
