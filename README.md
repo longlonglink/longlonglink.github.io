@@ -1,6 +1,5 @@
 # Longlonglink Github Page
 
-![](https://github.com/longlonglink/longlonglink.github.io/blob/main/assets/img/sharding-gerenciamento-usuarios/sleep.jpg)
 
 # Site/User Settings
 
@@ -73,15 +72,6 @@ links:
       key_trigger: 5
 ```
 
-Frontend Technologies
----------------------
-* [Gulp](https://gulpjs.com/): The streaming build system.
-* [Stylus](http://stylus-lang.com/): expressive, dynamic, robust CSS.
-* [BrowserSync](https://www.browsersync.io/): Time-saving synchronised browser testing.
-* [Rupture](https://github.com/jescalan/rupture): Simple media queries for stylus.
-* [Kouto-Swiss](http://kouto-swiss.io/): A complete CSS framework for Stylus.
-* [Jeet](http://jeet.gs/): A grid system for human.
-* [Zepto.js](http://zeptojs.com/): The aerogel-weight jQuery-compatible JavaScript library.
 
 ## How can I modify the theme ?
 

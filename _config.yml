@@ -45,7 +45,7 @@ links:
 
 # projects in header index
 projects:
-  - name: My Github Page
+  - name: Github Page
     url: https://github.com/longlonglink/longlonglink.github.io
 
 # exclude my node related stuff
