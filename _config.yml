@@ -2,7 +2,7 @@
 title: loophank - a noob
 description: "A blog about longlonglink ..."
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "http://blog.openee.me" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "http://longlonglink.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: longlonglink
