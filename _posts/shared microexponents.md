@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MX4,MX6,MX9格式解读"
-date: 2025-05-23 11:00:00
+date: 2025-05-23
 image: '/assets/img/post-image.png'
 description: 'MX4,MX6,MX9'
 tags:
@@ -43,5 +43,5 @@ FP32 的动态范围约为 ±10³⁸，精度由尾数（23 位）决定；INT8 
 
 #两级量化  
 ##das
-[![图片](/assets/img/sharding-gerenciamento-usuarios/shared microexponents-1.jpg )](https://longlonglink.github.io/)
-[![图片](/assets/img/sharding-gerenciamento-usuarios/shared microexponents-2.jpg )](https://longlonglink.github.io/)
+[![图片](/assets/img/sharding-gerenciamento-usuarios/shared microexponents-1.JPG )](https://longlonglink.github.io/)
+[![图片](/assets/img/sharding-gerenciamento-usuarios/shared microexponents-2.JPG )](https://longlonglink.github.io/)
