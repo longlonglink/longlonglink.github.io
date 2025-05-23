@@ -8,7 +8,7 @@ tags:
 categories:
 - docker
 ---
-##动机
+## 动机
 最近在复习教材知识点，要写数学公式，但是写latex实在是太复杂了，
 
 于是去找能不能直接生成latex
@@ -17,7 +17,7 @@ categories:
  [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
 ********
-##Docker安装
+## Docker安装
 
 普通安装方法仓库的readme写的很清楚了，我是用docker装的，就帮大家先把坑踩了。
 1. 先拉取并运行镜像
