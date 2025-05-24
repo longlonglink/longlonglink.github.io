@@ -42,6 +42,6 @@ FP32 的动态范围约为 ±10³⁸，精度由尾数（23 位）决定；INT8 
 
 
 # 两级量化  
-## 
+## NV的VSQ技术首次引入了两级量化的概念，而普通的FP8量化可视为k2=1的特殊情况，MX4,6,9则是先将k1=16个元素的块进行缩放，然后将其分为8组，每组各有1位新的缩放因子，两种缩放因子构成两级缩放。
 [![图片](/assets/img/sharding-gerenciamento-usuarios/shared microexponents-1.JPG )](https://longlonglink.github.io/)
 [![图片](/assets/img/sharding-gerenciamento-usuarios/shared microexponents-2.JPG )](https://longlonglink.github.io/)
